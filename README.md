@@ -1,5 +1,8 @@
 # 🎽 Tienda Web Ropa
 
+![Build Status](https://travis-ci.org/mariodiazzz11/TiendaWebRopa.svg?branch=main)
+![License](https://img.shields.io/badge/license-MIT-blue)
+
 Este es un proyecto que implementa una página web para una tienda de ropa. El proyecto está desarrollado utilizando HTML y CSS , lo que lo hace fácil de entender, personalizar y extender. 
 
 ## ✨ Características
