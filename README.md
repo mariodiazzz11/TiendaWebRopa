@@ -53,3 +53,18 @@ Si deseas contribuir a este proyecto:
 ## ✉️ Licencia
 
 **Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más información.**
+
+## ⭐️ Fomenta el crecimiento del proyecto
+
+Si te ha gustado este proyecto o lo encuentras útil, ¡no dudes en darle una estrella! ⭐️
+
+Las estrellas ayudan a otros usuarios a encontrar este repositorio y a motivarme a seguir mejorando y manteniendo el proyecto.
+
+Si quieres colaborar o hacer cambios personalizados, siéntete libre de hacer un **fork** y trabajar sobre tu propia versión. ¡Cualquier contribución es bienvenida! 🙌
+
+**Cómo puedes ayudar**:
+1. Da una estrella ⭐️ al repositorio.
+2. Haz un fork para modificar o mejorar el código.
+3. Abre un *pull request* con tus mejoras o correcciones.
+
+¡Gracias por tu apoyo! 🙏
